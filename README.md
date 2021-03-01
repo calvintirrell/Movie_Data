@@ -1,5 +1,8 @@
 # Movie Data Exploration + Analysis
 
+If the 'movies_shows_data.ipynb' file doesn't load, please use the following link to view the code and visuals:
+[movies_shows_data.ipynb](https://nbviewer.jupyter.org/github/calvintirrell/Movie_Data/blob/main/movies_shows_data.ipynb)
+
 Merged 3 different CSV files of data into 1 large single dataframe (df) using SQL-like syntax.
 Looked into the columns ('tag', 'timestamp_y') with missing data. 
 These columns had 3,476 values compared to 102,677 values in the other columns.
